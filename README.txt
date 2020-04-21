@@ -26,5 +26,8 @@ Then you need to install some libraries wiht pyinstall:
 
 ## Ghange log
 
+## Sources
+* Earth.jpg is from bixabay, where you can find cool and trademark free pictures for almost everything.
+
 ## Authors
 * Niclas Ekman
