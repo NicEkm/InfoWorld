@@ -12,7 +12,7 @@ InfoWorld:
 ## Usage
 
 Simply download the source folder and the code is explained on the .py file.
-Then you need to install some libraries wiht pyinstall:
+Then you need to install some libraries with pyinstall:
 
 ## Pip install libraries
 
