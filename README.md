@@ -21,6 +21,8 @@ Then you need to install some libraries wiht pyinstall:
 * Pip install requests (import requests)
 * BytesIO (from io import BytesIO)
 
+## Visualization
+![](images/Pic1.png)
 ## News
 
 
