@@ -16,6 +16,7 @@ Then you need to install some libraries with pyinstall:
 
 ## Pip install libraries
 
+* Python 3 needs to be installed (You can download it from the official site of python.)
 * tkinter (import tkinter as tk) (from tkinter import font) (This should be installed by deafult, but if somehow is not, reinstall python.)
 * Pip install Pillow (from PIL import ImageTk, Image)
 * Pip install requests (import requests)
