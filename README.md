@@ -13,6 +13,9 @@ InfoWorld:
 
 Clone the project and run the .py file in the terminal or cmd.
 
+## Visualization
+![](images/Pic1.png)
+
 ## News
 
 
